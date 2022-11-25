@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
  ------------ | --------
+[1722](https://cses.fi/problemset/task/1722/) | [Fibonacci Numbers](https://cses.fi/paste/a84194c2ef184bfe4c9fd1/)
 [2431](https://cses.fi/problemset/task/2431/) | [Digit Queries](https://cses.fi/paste/cdcd43e61f84bf974c9b89/)
 [1092](https://cses.fi/problemset/task/1092/) | [Two Sets](https://cses.fi/paste/f508d6779c5b8d394c7ba7/)
 [1071](https://cses.fi/problemset/task/1071/) | [Number Spiral](https://cses.fi/paste/7fbe1e0e5750144e4c6c2b/)
