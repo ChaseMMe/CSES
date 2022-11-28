@@ -5,7 +5,11 @@ Personal Accepted Solutions to CSES Problems.
   
 
 Task # | Solution
- ------------ | --------
+------------ | --------
+[1643](https://cses.fi/problemset/task/1643/) | [Maximum Subarray Sum](https://cses.fi/paste/01d37f1e5f89a96e4cdcfe/)
+[1622](https://cses.fi/problemset/task/1622/) | [Creating Strings](https://cses.fi/paste/f8b2017be2108de74cdbf6/)
+[1618](https://cses.fi/problemset/task/1618/) | [Trailing Zeros](https://cses.fi/paste/21ebd1c525a11bc04cdb95/)
+[1617](https://cses.fi/problemset/task/1617/) | [Bit Strings](https://cses.fi/paste/24733f26942b18bd4cdb63/)
 [1095](https://cses.fi/problemset/task/1095/) | [Exponentiation](https://cses.fi/paste/24e697e5240c29af4cd00e/)
 [1761](https://cses.fi/problemset/task/1761/) | [Shortest Routes I](https://cses.fi/paste/8326839da20560d04ccb28/)
 [1722](https://cses.fi/problemset/task/1722/) | [Fibonacci Numbers](https://cses.fi/paste/a84194c2ef184bfe4c9fd1/)
