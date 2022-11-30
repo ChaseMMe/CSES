@@ -6,6 +6,8 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1641](https://cses.fi/problemset/task/1641/) | [Sum of Three Values](https://cses.fi/paste/4fafc2e7cdfaf6ba4cf566/)
+[1640](https://cses.fi/problemset/task/1640/) | [Sum of Two Values](https://cses.fi/paste/de7af80f3ac41dac4cf562/)
 [1643](https://cses.fi/problemset/task/1643/) | [Maximum Subarray Sum](https://cses.fi/paste/01d37f1e5f89a96e4cdcfe/)
 [1622](https://cses.fi/problemset/task/1622/) | [Creating Strings](https://cses.fi/paste/f8b2017be2108de74cdbf6/)
 [1618](https://cses.fi/problemset/task/1618/) | [Trailing Zeros](https://cses.fi/paste/21ebd1c525a11bc04cdb95/)
