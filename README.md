@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1648](https://cses.fi/problemset/task/1648/) | [Dynamic Range Sum Queries](https://cses.fi/paste/b4c61770ab41a3b44d5d90/)
 [1621](https://cses.fi/problemset/task/1621/) | [Distinct Numbers](https://cses.fi/paste/25abe51641b755d44d248b/)
 [1713](https://cses.fi/problemset/task/1713/) | [Counting Divisors](https://cses.fi/paste/448c79e69a5a1c054d0ff8/)
 [1158](https://cses.fi/problemset/task/1158/) | [Book Shop](https://cses.fi/paste/b4eb7271087557a64d0274/)
