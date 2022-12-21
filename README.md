@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1141](https://cses.fi/problemset/task/1141/) | [Playlist](https://cses.fi/paste/ddc2062359d54f5e4e9b4e/)
 [1623](https://cses.fi/problemset/task/1623/) | [Apple Division](https://cses.fi/paste/9f10b40628af8dfc4dc22f/)
 [1639](https://cses.fi/problemset/task/1639/) | [Edit Distance](https://cses.fi/paste/29bd3124f817fe874dafb5/)
 [2185](https://cses.fi/problemset/task/2185/) | [Prime Multiples](https://cses.fi/paste/fff6223637fac9584d6ee1/)
