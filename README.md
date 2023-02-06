@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1161](https://cses.fi/problemset/task/1161/) | [Stick Divisions](https://cses.fi/paste/c0fc4bdd70c28dbd52cd9e/)
 [1142](https://cses.fi/problemset/task/1142/) | [Advertisement](https://cses.fi/paste/176694be30afb4c0526f70/)
 [1141](https://cses.fi/problemset/task/1141/) | [Playlist](https://cses.fi/paste/ddc2062359d54f5e4e9b4e/)
 [1623](https://cses.fi/problemset/task/1623/) | [Apple Division](https://cses.fi/paste/9f10b40628af8dfc4dc22f/)
