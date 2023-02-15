@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[2165](https://cses.fi/problemset/task/2165/) | [Towers of Hanoi](https://cses.fi/paste/ef1ecbb5ca4a6c7853b6ff/)
 [1161](https://cses.fi/problemset/task/1161/) | [Stick Divisions](https://cses.fi/paste/c0fc4bdd70c28dbd52cd9e/)
 [1142](https://cses.fi/problemset/task/1142/) | [Advertisement](https://cses.fi/paste/176694be30afb4c0526f70/)
 [1141](https://cses.fi/problemset/task/1141/) | [Playlist](https://cses.fi/paste/ddc2062359d54f5e4e9b4e/)
