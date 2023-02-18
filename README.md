@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1645](https://cses.fi/problemset/task/1645/) | [Nearest Smaller Values](https://cses.fi/paste/424a82274fa700c7540148/)
 [2165](https://cses.fi/problemset/task/2165/) | [Towers of Hanoi](https://cses.fi/paste/ef1ecbb5ca4a6c7853b6ff/)
 [1161](https://cses.fi/problemset/task/1161/) | [Stick Divisions](https://cses.fi/paste/c0fc4bdd70c28dbd52cd9e/)
 [1142](https://cses.fi/problemset/task/1142/) | [Advertisement](https://cses.fi/paste/176694be30afb4c0526f70/)
