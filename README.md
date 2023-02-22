@@ -6,6 +6,8 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1662](https://cses.fi/problemset/task/1662/) | [Subarray Divisibility](https://cses.fi/paste/83eb012e05107e5f5451dc/)
+[1619](https://cses.fi/problemset/task/1619/) | [Restaurant Customers](https://cses.fi/paste/d10436bb99357bcd5451ef/)
 [1645](https://cses.fi/problemset/task/1645/) | [Nearest Smaller Values](https://cses.fi/paste/424a82274fa700c7540148/)
 [2165](https://cses.fi/problemset/task/2165/) | [Towers of Hanoi](https://cses.fi/paste/ef1ecbb5ca4a6c7853b6ff/)
 [1161](https://cses.fi/problemset/task/1161/) | [Stick Divisions](https://cses.fi/paste/c0fc4bdd70c28dbd52cd9e/)
