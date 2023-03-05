@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[1637](https://cses.fi/problemset/task/1637/) | [Removing Digits](https://cses.fi/paste/d81103a096d8f0005561b6/)
 [1163](https://cses.fi/problemset/task/1163/) | [Traffic Lights](https://cses.fi/paste/afe0d22ec6e9935c549ca5/)
 [1662](https://cses.fi/problemset/task/1662/) | [Subarray Divisibility](https://cses.fi/paste/83eb012e05107e5f5451dc/)
 [1619](https://cses.fi/problemset/task/1619/) | [Restaurant Customers](https://cses.fi/paste/d10436bb99357bcd5451ef/)
