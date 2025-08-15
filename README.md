@@ -6,6 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
+[2205](https://cses.fi/problemset/task/2205/) | [Gray Code](https://cses.fi/paste/5654f85fa5c90e87d7fa77/)
 [1755](https://cses.fi/problemset/task/1755/) | [Palindrome Reorder](https://cses.fi/paste/92792ca62fc1932cd7cf85/)
 [1072](https://cses.fi/problemset/task/1072/) | [Two Knights](https://cses.fi/paste/2d04aa55e8ac2ac85744c2/)
 [1637](https://cses.fi/problemset/task/1637/) | [Removing Digits](https://cses.fi/paste/d81103a096d8f0005561b6/)
