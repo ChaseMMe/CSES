@@ -6,7 +6,7 @@ Personal Accepted Solutions to CSES Problems.
 
 Task # | Solution
 ------------ | --------
-[1755](https://cses.fi/problemset/task/1755/) | [Palindrome Reorder](https://cses.fi/paste/fb9c4e921b750369d7cf40/)
+[1755](https://cses.fi/problemset/task/1755/) | [Palindrome Reorder](https://cses.fi/paste/92792ca62fc1932cd7cf85/)
 [1072](https://cses.fi/problemset/task/1072/) | [Two Knights](https://cses.fi/paste/2d04aa55e8ac2ac85744c2/)
 [1637](https://cses.fi/problemset/task/1637/) | [Removing Digits](https://cses.fi/paste/d81103a096d8f0005561b6/)
 [1163](https://cses.fi/problemset/task/1163/) | [Traffic Lights](https://cses.fi/paste/afe0d22ec6e9935c549ca5/)
